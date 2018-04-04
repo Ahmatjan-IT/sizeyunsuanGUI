@@ -19,6 +19,7 @@ public class MyPanel extends JFrame{
 	public MyPanel(){
 		init();
 		addAction();
+		
 		this.setTitle("»¶Ó­µÇÂ½");
 		this.setSize(600,200);
 		this.setLocationRelativeTo(null);

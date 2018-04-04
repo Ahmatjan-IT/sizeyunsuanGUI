@@ -36,6 +36,8 @@ public class QuestionPanel extends JFrame{
 	}
 	
 	private void addPanel(){
+		
+		
 		for(int i=0;i<25;i++){
 			question[i].add(questionLabel[i]);
 			question[i].add(questionText[i]);
